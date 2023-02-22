@@ -1,0 +1,16 @@
+.hovered-squares-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 20px 10px;
+
+  .hovered-square {
+    width: 300px;
+    min-height: 150px;
+    margin-bottom: 20px;
+    background-color: #FFFFE0;
+    color: #8B4000;
+    border-radius: 8px;
+    font-weight: 900;
+  }
+}
